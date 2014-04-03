@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments Dinamicos</string>
+    <string name="hello_fragment">Esto definitivamente es un fragment dinámico.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
